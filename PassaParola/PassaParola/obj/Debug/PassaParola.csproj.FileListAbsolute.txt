@@ -1,0 +1,10 @@
+C:\C# Exapmles\PassaParola\PassaParola\bin\Debug\PassaParola.exe.config
+C:\C# Exapmles\PassaParola\PassaParola\bin\Debug\PassaParola.exe
+C:\C# Exapmles\PassaParola\PassaParola\bin\Debug\PassaParola.pdb
+C:\C# Exapmles\PassaParola\PassaParola\obj\Debug\PassaParola.csproj.AssemblyReference.cache
+C:\C# Exapmles\PassaParola\PassaParola\obj\Debug\PassaParola.Form1.resources
+C:\C# Exapmles\PassaParola\PassaParola\obj\Debug\PassaParola.Properties.Resources.resources
+C:\C# Exapmles\PassaParola\PassaParola\obj\Debug\PassaParola.csproj.GenerateResource.cache
+C:\C# Exapmles\PassaParola\PassaParola\obj\Debug\PassaParola.csproj.CoreCompileInputs.cache
+C:\C# Exapmles\PassaParola\PassaParola\obj\Debug\PassaParola.exe
+C:\C# Exapmles\PassaParola\PassaParola\obj\Debug\PassaParola.pdb
